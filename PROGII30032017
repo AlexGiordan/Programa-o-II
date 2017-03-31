@@ -53,3 +53,10 @@ Resp: HTML (Linguagem de marcação) -> propicia a codificação de uma regra ou
 Resp: Interpretar o codigo fonte HTML e afins e disponibilizar o conteudo para interação do usuario.
 3) Qual a diferença de uma pagina estatica e uma pagina dinamica?
 Res: Pagina estatica o layout da pagina não é alterado com a interação do usuario, já o dinamico o layout é alterado conforme interação do usuario.
+
+Ideia de aplicação Web
+Uma aplicação web para gerenciar contas de bancos diferentes, ou seja que o usuario tenha n contas em bancos diferentes 
+mas possa interagir com todas em um unico local, 
+sem ter que logando e deslogando em de uma conta para a outra.
+
+
