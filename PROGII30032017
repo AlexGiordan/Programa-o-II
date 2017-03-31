@@ -14,3 +14,42 @@ http fornece padrão.
 o que é HTTP?
 o que é HTML?
 
+cliclo de solicitação e respostas?
+
+URL?
+
+DNS?
+
+IP?
+
+dominio, beta, gama?
+
+
+http://get-site-ip.com/
+
+como é feita a conversão de dominio para ip?
+
+ICANN ?
+
+front-end
+tipos de conteudo de uma aplicação web?
+>> texto simples
+>> padões web (html, css, javascript)
+
+back-end
+.php .asp .aspx .jsp
+
+site estatico X site dinamico?
+
+linguagens dinamicas php, phyton, ruby, 
+
+HTTPS ?
+
+Exercicio
+1) Defina HTML e HTTP e explique a diferença emtre os dois?
+Resp: HTML (Linguagem de marcação) -> propicia a codificação de uma regra ou logica.
+      HTTP (Protocolo de comunição entre maquinas) -> asegura a comunicação entre as maquinas, garante a troca de informação entre cliente servidor.
+2) Explique a função de um navegador web?
+Resp: Interpretar o codigo fonte HTML e afins e disponibilizar o conteudo para interação do usuario.
+3) Qual a diferença de uma pagina estatica e uma pagina dinamica?
+Res: Pagina estatica o layout da pagina não é alterado com a interação do usuario, já o dinamico o layout é alterado conforme interação do usuario.
