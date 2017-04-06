@@ -1,1 +1,36 @@
 
+HTML
+
+linguagem de marcação
+padronizado W3C (Verificar validador)
+XHTML
+paginas web
+
+- gedit
+- geany
+- notepad++
+
+ instruções
+ * doctype
+ <!DOCTYPE html>
+ 
+ tags - comandos de marcação
+ <nome_da_tag>conteudo</nome_da_tag>
+ Normalmente vem em pares
+ 
+ tags vazias
+ <br />
+ <hr />
+ <imput />
+ 
+ Elementos html
+ 
+ exemplo
+ <html>
+  <body>
+    <p>Este é meu primeiro programa</p>
+  </body>
+ </html>
+ 
+ 
+ https://www.w3schools.com/html/default.asp
